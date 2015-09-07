@@ -1,0 +1,7 @@
+# Site settings
+title: PTHS Computer Club
+description: "The official site of the Peters Township High School Computer Club"
+
+# Build settings
+markdown: kramdown
+permalink: "/post/:title"

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to the new Computer Club website"
+date:   2015-09-05 17:36:40
+categories: welcome
+---
+Welcome to the new Computer Club website, [computerclub.xyz](http://computerclub.xyz/).
+
+Any updates, such as meetings or other planned events, will be posted on this website.  
+Be sure to check often!
+
+The source of this website can be viewed or downloaded from the [pths-computer-club repository](https://github.com/digicannon/pths-computer-club) on GitHub.  
+Please open an issue or pull request if there are any problems with the site.
