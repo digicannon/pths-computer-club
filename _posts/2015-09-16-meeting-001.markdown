@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "First meeting tomorrow"
+date:   2015-09-16 17:45:10
+categories: meetings
+---
+I'm looking forward to seeing you all for the first Computer Club meeting tomorrow!
+
+For this meeting I will be bringing a GameCube with Super Smash Bros. Melee.  
+All characters/maps are unlocked.  
+Please be sure to bring a controller if you plan on participating.  I will be bringing two extras for those who forget, but don't count on using one.
+
+Depending on how many participants we have, we will be conducting a tournament of one of these types:
+
+ * Singles (1v1), single elimination
+ * Singles (1v1), double elimination
+ * Doubles (2v2), single elimination
+ * Doubles (2v2), double elimination
+
+We follow the same ruleset nearly everyone does.  You can view it on Smashboards [here](http://smashboards.com/rulesets/melee/).
